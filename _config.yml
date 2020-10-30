@@ -1,6 +1,6 @@
 name: HuuuLaa
 permalink: :year/:month/:day/:title
-baseurl: http://HuuuLaa.github.io
+baseurl: huuulaa.github.io
 
 # Your blog's start year and this year, showed in the footer left
 # start is optional
