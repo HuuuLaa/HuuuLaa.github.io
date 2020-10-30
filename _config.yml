@@ -1,6 +1,6 @@
 name: HuuuLaa
 permalink: :year/:month/:day/:title
-baseurl: HuuuLaa.github.io
+baseurl: http://HuuuLaa.github.io
 
 # Your blog's start year and this year, showed in the footer left
 # start is optional
@@ -16,8 +16,8 @@ link:
 
 # Links in the navigation, you can modify both link name and link url
 nav:
-   Home: "http://HuuuLaa.github.io/"
-   Diary: "http://HuuuLaa.github.io/diary"
+   Home: "/"
+   Diary: "/diary"
 
    
 markdown: kramdown
